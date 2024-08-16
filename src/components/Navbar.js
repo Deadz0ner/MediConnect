@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="navbar">
       <div className="navbar-left">
-        <a href="/" className="navbar-brand"><b>MeetTheDoc</b></a>
+        <a href="/" className="navbar-brand"><b>MediConnect</b></a>
       </div>
       <div className="navbar-center">
         <ul className="nav-list">
